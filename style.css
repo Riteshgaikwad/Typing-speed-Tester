@@ -29,7 +29,7 @@ body{
     position: absolute;
     opacity: 0;
     z-index: -99;
-    
+
 
 }
 .content-box .content{
@@ -75,7 +75,7 @@ body{
     position: relative;
 
 }
-.typing-textp span.active{
+.typing-text p span.active{
     color: orange;
     
 }
